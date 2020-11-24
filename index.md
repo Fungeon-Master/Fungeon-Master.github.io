@@ -34,6 +34,5 @@
 			<br><a href="https://www.dndbeyond.com/magic-items/wand-of-the-war-mage-2"><strong>+2 Wand of the War Mage</strong></a>
 		</p>    </div>    </div>
         </button>
-        <script type='text/javascript' src="script.js"></script>
     </body>
 </html> 
