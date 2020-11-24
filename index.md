@@ -1,11 +1,3 @@
-    <html>
-      <!DOCTYPE html>
-      <head>
-        <link rel="stylesheet" type="text/css" href="styles.css"/>
-        <title>
-          Magic Items
-        </title>
-</head>
 <body>
 	<div class='page-container'>
 	<h1 class='page-title'>Magic Items</h1>
