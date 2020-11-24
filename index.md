@@ -33,6 +33,3 @@
 			<br><a href="https://www.dndbeyond.com/magic-items/weapon-2"><strong>+2 Weapon</strong></a>
 			<br><a href="https://www.dndbeyond.com/magic-items/wand-of-the-war-mage-2"><strong>+2 Wand of the War Mage</strong></a>
 		</p>    </div>    </div>
-        </button>
-    </body>
-</html> 
