@@ -41,8 +41,8 @@
 
 <table style='text-align:center;'>
 	<tr style='background: #262626; color: #ffffff;'>
-		<th style=text-align:center;>Uncommon</th>
-		<th style=text-align:center;>Rare</th>
+		<th style='text-align:center;'>Uncommon</th>
+		<th style='text-align:center;'>Rare</th>
 	</tr>
 	<tr>
 		<td><a href='https://www.dndbeyond.com/magic-items/ammunition-1' style='color:#52e052;'>+1 Ammunition (1d4)</a></td>
@@ -118,4 +118,3 @@
 		</td>
 	</tr>
 </table>
-</div>
