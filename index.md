@@ -19,7 +19,7 @@
 		<br>
 	All races and classes are available & <b>multiclassing</b> is allowed!</p>
 
-	<h3 style='color: #ffff66;'>Character Creation</h3>
+	<h3 style='color: #ffd966;'>Character Creation</h3>
 	<p><b>Stat generation</b> - To generate each stat, roll <b>4d6</b>, and <b>drop the lowest number</b> rolled.
 		<br>
 	<b>Placement of Stats</b> - Your stats can be assigned anywhere <b>after</b> all six numbers have been generated.
@@ -33,11 +33,12 @@
      2. Your character has never been to Brisque before, nor met Frankie Crackers.
 	And that's it!
 
-
-	<h2>Starting Magical Equipment</h2>
-		<p>Characters start with 5000 gold plus 1d10 x 250 gold.
-			<br>As well as three uncommon magical items, and one rare magical item.</p>
-		<p>Each character also starts with 1d4+2 <a href="https://www.dndbeyond.com/magic-items/potion-of-healing"><strong>Regular Healing Potions</strong></a> and 1d4 <a href="https://www.dndbeyond.com/magic-items/potion-of-healing"><strong>Greater Healing Potions</strong></a>.</p>
+	<h3 style='color: #ffd966;'>Starting Equipment</h3>
+	
+	<p>Characters start with 5000 gold plus 1d10 x 250 gold.
+		<br>
+	As well as three uncommon magical items, and one rare magical item.</p>
+	<p>Each character also starts with 1d4+2 <a href="https://www.dndbeyond.com/magic-items/potion-of-healing"><strong><div style=colour: #66ff66;'>Regular Healing Potions</div></strong></a> and 1d4 <a href="https://www.dndbeyond.com/magic-items/potion-of-healing"><strong>Greater Healing Potions</strong></a>.</p>
 		<p>Characters can start with an additional Uncommon Magic item if they reduce their starting gold by 3000 gold, and an additional Rare Magic Item if they reduce their starting gold by 6000 gold.</p>
 		<p>You can also decide to look up your own magic items on D&D Beyond if you would like, but below I have rolled a random assortment of Magic Items you can choose from.</p>
 	<h3>Uncommon</h3>
