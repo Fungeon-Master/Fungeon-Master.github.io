@@ -2,7 +2,7 @@
 <h1 class='page-title' style='color: #6699ff;'>The Winter Fey</h1>
 		<p><b>The Winter Fey</b> is a short, festive, & winter-themed one-shot adventure for <b>10th level adventurers</b>, set in and around the tiny isolated mountain hamlet of <b>Brisque</b>.</p>
 	
-<h2 style=: #ff6666;'>Adventure Overview</h2>
+<h2 style=color:#ff6666;'>Adventure Overview</h2>
 	<p>You and your companions have received word from <b>Frankie Crackers</b> a friend of a friend, about the passing away of an old associate, comrade, partner, family member, or advocate, <b>Parkie Smiles</b> the talented and cheeky bard with a heart of gold and more coin owed than owned.
 		<br>
 	<b>Frankie Crackers</b> has gotten in touch with you to help her track down the mythical <b>Winter Fey</b>- a benevolent and wish-granting world spirit. The myth goes that spirit visits a small village but once a year upon the Night of Hearths to grant but a single <b>wish</b>. With months of research, <b>Frankie</b> has decided that <b>Brisque</b> is that village and so the spirit itself must make it's home nearby.
@@ -39,7 +39,7 @@
 	<p><b>Magic Items</b> - Each character also starts with <b>three Uncommon Magic Items</b> and <b>one Rare Magic Item</b>. You can go through the items yourself and pick what you like, but I have also rolled for a good variety of random magic items, the items can be seen below, so feel free to pick from the items listed.</p>
 	<p><b>Additional Magic Items</b> - Each character can also spend what remains of their <b>5000 starting gold</b> to purchase <b>additional magic items</b> at a cost of <b>2500 gold</b> for an <b>Uncommon Magic Item</b> and <b>4000 gold</b> for a <b>Rare Magic Item</b>.
 
-<table style=text-align:center>
+<table style=text-align:center;>
 	<tr style='background: #262626; color: #ffffff;'>
 		<th style=text-align:center;>Uncommon</th>
 		<th style=text-align:center;>Rare</th>
