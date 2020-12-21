@@ -2,6 +2,14 @@
 	<div class='page-container'>
 	<h1 class='page-title'>The Winter Fey</h1>
 	
+	<p><b>The Winter Fey</b> is a short, festive, & winter-themed one-shot adventure for <b>10th level adventurers</b>, set in and around the tiny isolated mountain hamlet of <b>Brisque</b>.</p>
+	
+	<h2>Adventure Overview</h2>
+	<p>You and your companions have received word from Frankie Crackers a friend of a friend, about the passing away of an old associate, comrade, partner, family member, or advocate, Parkie Smiles the talented and cheeky bard with a heart of gold and more coin owed than owned.
+	Frankie Crackers has gotten in touch with you to help her track down the mythical Winter Fey- a benevolent and wish-granting world spirit. The myth goes that spirit visits a small village but once a year upon the Night of Hearths to grant but a single wish. With months of research, Frankie has decided that Brisque is that village and so the spirit itself must make it's home nearby.
+	She wants to track down the Winter Fey before the Night of Hearths and secure the single wish for Parkie's resurrection.</p>
+
+	
 	<h2>Starting Magical Equipment</h2>
 		<p>Characters start with 5000 gold plus 1d10 x 250 gold.
 			<br>As well as three uncommon magical items, and one rare magical item.</p>
