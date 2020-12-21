@@ -1,13 +1,14 @@
 <body>
 	<div class='page-container'>
-	<h1 class='page-title'>Magic Items</h1>
-	<h1>Starting Magical Equipment</h1>
+	<h1 class='page-title'>The Winter Fey</h1>
+	
+	<h2>Starting Magical Equipment</h2>
 		<p>Characters start with 5000 gold plus 1d10 x 250 gold.
 			<br>As well as three uncommon magical items, and one rare magical item.</p>
 		<p>Each character also starts with 1d4+2 <a href="https://www.dndbeyond.com/magic-items/potion-of-healing"><strong>Regular Healing Potions</strong></a> and 1d4 <a href="https://www.dndbeyond.com/magic-items/potion-of-healing"><strong>Greater Healing Potions</strong></a>.</p>
 		<p>Characters can start with an additional Uncommon Magic item if they reduce their starting gold by 3000 gold, and an additional Rare Magic Item if they reduce their starting gold by 6000 gold.</p>
 		<p>You can also decide to look up your own magic items on D&D Beyond if you would like, but below I have rolled a random assortment of Magic Items you can choose from.</p>
-	<h1>Uncommon</h1>
+	<h3>Uncommon</h3>
 		<p><a href="https://www.dndbeyond.com/magic-items/weapon-of-warning"><strong>Weapon of Warning</strong></a>
 			<br><a href="https://www.dndbeyond.com/magic-items/boots-of-the-winterlands"><strong>Boots of the Winterlands</strong></a>
 			<br><a href="https://www.dndbeyond.com/magic-items/weapon-1"><strong>+1 Weapon</strong></a>
@@ -24,7 +25,7 @@
 			<br><a href="https://www.dndbeyond.com/magic-items/wand-of-magic-detection"><strong>Wand of Magic Detection</strong></a>
 			<br><a href="https://www.dndbeyond.com/magic-items/driftglobe"><strong>Driftglobe</strong></a>
 			<br><a href="https://www.dndbeyond.com/magic-items/shield-1"><strong>+1 Shield</strong></a>
-	</p><h1>Rare</h1>
+	</p><h3>Rare</h3>
 		<p><a href="https://www.dndbeyond.com/magic-items/mantle-of-spell-resistance"><strong>Mantle of Spell Resistance</strong></a>
 			<br><a href="https://www.dndbeyond.com/magic-items/tentacle-rod"><strong>Tentacle Rod</strong></a>
 			<br><a href="https://www.dndbeyond.com/magic-items/mace-of-smiting"><strong>Mace of Smiting</strong></a>
