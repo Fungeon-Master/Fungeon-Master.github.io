@@ -9,6 +9,7 @@
 	<br>
 	<b>Frankie Crackers</b> has gotten in touch with you to help her track down the mythical <b>Winter Fey</b>- a benevolent and wish-granting world spirit. The myth goes that spirit visits a small village but once a year upon the Night of Hearths to grant but a single <b>wish</b>. With months of research, <b>Frankie</b> has decided that <b>Brisque</b> is that village and so the spirit itself must make it's home nearby.
 	<br>
+	<br>
 	She wants to track down the <b>Winter Fey</b> before the <b>Night of Hearths</b> and secure the single <b>wish</b> for <b>Parkie's</b> resurrection.</p>
 
 	
