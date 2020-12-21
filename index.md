@@ -39,7 +39,7 @@
 	<p><b>Magic Items</b> - Each character also starts with <b>three Uncommon Magic Items</b> and <b>one Rare Magic Item</b>. You can go through the items yourself and pick what you like, but I have also rolled for a good variety of random magic items, the items can be seen below, so feel free to pick from the items listed.</p>
 	<p><b>Additional Magic Items</b> - Each character can also spend what remains of their <b>5000 starting gold</b> to purchase <b>additional magic items</b> at a cost of <b>2500 gold</b> for an <b>Uncommon Magic Item</b> and <b>4000 gold</b> for a <b>Rare Magic Item</b>.
 
-<table style=text-align:center;>
+<table style='text-align:center;'>
 	<tr style='background: #262626; color: #ffffff;'>
 		<th style=text-align:center;>Uncommon</th>
 		<th style=text-align:center;>Rare</th>
