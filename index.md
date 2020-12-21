@@ -12,7 +12,8 @@
 		<hr>
 	
 <h2 style='color: #ff6666;'>Character Creation & Starting Equipment</h2>
-	<p>This is an adventure designed for <b>10th level Adventurers</b>, the only restrictions on character creation are that the characters must be created using <b>officially licensed</b> books (Not Unearthed Arcana, sorry!). <b>Content sharing</b> has been enabled, so you <b>should</b> have access to all currently released D&D content on <b>DnDBeyond</b>.
+	<p>A link to the <b>DnD Beyond Campaign</b> can be found <a href='https://ddb.ac/campaigns/join/1557406924392802' style='color:#52e052;'> HERE</a></p>
+	<p>This is an adventure designed for <b>10th level Adventurers</b>, the only restrictions on character creation are that the characters must be created using <b>officially licensed</b> books (Not Unearthed Arcana, sorry!). <b>Content sharing</b> has been enabled, so you <b>should</b> have access to all currently released D&D content on <b>DnD Beyond</b>.
 		<br>
 		<br>
 	All races and classes are available & <b>multiclassing</b> is allowed!</p>
