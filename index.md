@@ -4,13 +4,21 @@
 	
 	<p><b>The Winter Fey</b> is a short, festive, & winter-themed one-shot adventure for <b>10th level adventurers</b>, set in and around the tiny isolated mountain hamlet of <b>Brisque</b>.</p>
 	
-	<h2 style='color: #ff6666'>Adventure Overview</h2>
+	<h2 style='color: #ff6666;'>Adventure Overview</h2>
 	<p>You and your companions have received word from <b>Frankie Crackers</b> a friend of a friend, about the passing away of an old associate, comrade, partner, family member, or advocate, <b>Parkie Smiles</b> the talented and cheeky bard with a heart of gold and more coin owed than owned.
-	<br>
+		<br>
 	<b>Frankie Crackers</b> has gotten in touch with you to help her track down the mythical <b>Winter Fey</b>- a benevolent and wish-granting world spirit. The myth goes that spirit visits a small village but once a year upon the Night of Hearths to grant but a single <b>wish</b>. With months of research, <b>Frankie</b> has decided that <b>Brisque</b> is that village and so the spirit itself must make it's home nearby.
-	<br>
-	<br>
+		<br>
+		<br>
 	She wants to track down the <b>Winter Fey</b> before the <b>Night of Hearths</b> and secure the single <b>wish</b> for <b>Parkie's</b> resurrection.</p>
+		<hr>
+	
+	<h2 style='color: #ff6666;'>Character Creation & Starting Equipment</h2>
+	<p>This is an adventure designed for <b>10th level Adventurers</b>, the only restrictions on character creation are that the characters must be created using <b>officially licensed</b> books (Not Unearthed Arcana, sorry!). <b>Content sharing</b> has been enabled, so you <b>should</b> have access to all currently released D&D content on <b>DnDBeyond</b>.
+	<br>
+	<br>
+	All races and classes are available & <b>multiclassing</b> is allowed!
+
 
 	
 	<h2>Starting Magical Equipment</h2>
