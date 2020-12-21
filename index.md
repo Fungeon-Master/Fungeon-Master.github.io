@@ -38,7 +38,7 @@
 	<p>Characters start with 5000 gold plus 1d10 x 250 gold.
 		<br>
 	As well as three uncommon magical items, and one rare magical item.</p>
-	<p>Each character also starts with 1d4+2 <a href="https://www.dndbeyond.com/magic-items/potion-of-healing"><strong><div style=colour: #66ff66;'> Regular Healing Potions </div></strong></a> and 1d4 <a href="https://www.dndbeyond.com/magic-items/potion-of-healing"><strong>Greater Healing Potions</strong></a>.</p>
+	<p>Each character also starts with 1d4+2 <a href="https://www.dndbeyond.com/magic-items/potion-of-healing"><strong><div style='colour: #66ff66;'> Regular Healing Potions </div></strong></a> and 1d4 <a href="https://www.dndbeyond.com/magic-items/potion-of-healing"><strong>Greater Healing Potions</strong></a>.</p>
 		<p>Characters can start with an additional Uncommon Magic item if they reduce their starting gold by 3000 gold, and an additional Rare Magic Item if they reduce their starting gold by 6000 gold.</p>
 		<p>You can also decide to look up your own magic items on D&D Beyond if you would like, but below I have rolled a random assortment of Magic Items you can choose from.</p>
 	<h3>Uncommon</h3>
