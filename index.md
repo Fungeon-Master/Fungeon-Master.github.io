@@ -1,5 +1,5 @@
 <body>
-<h1>The Winter Fey</h1>
+<h1 style='color: #6699ff;'>The Winter Fey</h1>
 		<p><b>The Winter Fey</b> is a short, festive, & winter-themed one-shot adventure for <b>10th level adventurers</b>, set in and around the tiny isolated mountain hamlet of <b>Brisque</b>.</p>
 	
 <h2 style='color:#ff6666;'>Adventure Overview</h2>
