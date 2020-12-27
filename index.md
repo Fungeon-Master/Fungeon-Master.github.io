@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<link rel="stylesheet" type="text/css" href="https://www.fungeon-master.github.io/style.css" />
-
 <body>
 <h1>The Winter Fey</h1>
 		<p><b>The Winter Fey</b> is a short, festive, & winter-themed one-shot adventure for <b>10th level adventurers</b>, set in and around the tiny isolated mountain hamlet of <b>Brisque</b>.</p>
